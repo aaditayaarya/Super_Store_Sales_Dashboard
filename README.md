@@ -36,6 +36,8 @@
 
 ![Dashboard Preview](Dashboard%20Preview.png)
 
+![Dashboard Preview](Dashboard%20Screenshot.png)
+
 ---
 
 
