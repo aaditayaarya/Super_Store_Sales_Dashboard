@@ -48,11 +48,12 @@ This Power BI project visualizes sales performance using Superstore data to prov
 
 ## 🔍 Key Insights
 
-1. **Highest Sales** come from the **Technology** category, but **Furniture** has lower profitability.
-2. **West Region** consistently contributes to the highest profit margins.
-3. Products with **high discounts** tend to show **reduced profit or losses**.
-4. A small group of **repeat customers** accounts for a significant portion of total revenue.
-5. **Office Supplies** are sold in high quantities but yield less profit per unit.
+- **Highest Sales** come from the **Technology** category, but **Furniture** has lower
+  profitability.
+- **West Region** consistently contributes to the highest profit margins.
+- Products with **high discounts** tend to show **reduced profit or losses**.
+- A small group of **repeat customers** accounts for a significant portion of total revenue.
+- **Office Supplies** are sold in high quantities but yield less profit per unit.
 
 ---
 
