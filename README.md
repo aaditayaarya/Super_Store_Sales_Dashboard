@@ -52,13 +52,13 @@ A small group of **repeat customers** accounts for a significant portion of tota
 
 ## 🛠 **Tools Used**
 
-_ Power BI Desktop
-_ DAX for calculated measures and KPIs
-_ Power Query for data shaping and transformation
+- Power BI Desktop
+- DAX for calculated measures and KPIs
+- Power Query for data shaping and transformation
 
 ---
 
 ## 💼 About Me
 I’m passionate about data analysis and insights-driven decision-making. Open to opportunities where I can contribute using my analytical skills.
 
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]
+🔗 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)
