@@ -1,5 +1,7 @@
 ## 📊 **Super Store Sales Dashboard**
 
+This Power BI project visualizes sales performance using Superstore data to provide actionable insights on profit trends, regional performance, product categories, and customer behavior.
+
 ## 🔍 **Project Overview**
 - The **Super Store Sales Dashboard** enables business users and analysts to:
 - Monitor total sales, profits, and quantities sold
@@ -12,9 +14,13 @@
 
 ## 📁 **Project Files**
 
-| **File Name**                         | **Description**                                    |
+| **File Name**                         | **Description**                                    
 |--------------------------------------|-----------------------------------------------------
-| `Super Store Sales Dashboard.pbix`   | Power BI report file            |
+| `Blue.jpg`                           | Image asset used in visuals (optional)
+| `Dashboard Preview.png`              | Snapshot of the final dashboard
+| `Dashboard Screenshot.png`           | In-depth view of dashboard sections
+| `Super Store Sales Dashboard.pbix`   | Power BI report file       
+| `SuperStore_Sales_Dataset.csv`       | Source dataset used in Power BI
 | `README.md`                          | Project overview and documentation                  
 
 ---
