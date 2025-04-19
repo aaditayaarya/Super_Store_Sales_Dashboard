@@ -1,12 +1,12 @@
 ## 📊 **Super Store Sales Dashboard**
 
 ## 🔍 **Project Overview**
-The **Super Store Sales Dashboard** enables business users and analysts to:
-_ Monitor total sales, profits, and quantities sold
-_ Identify high-performing and underperforming product segments
-_ Analyze regional sales and profit trends
-_ Explore customer order behavior
-_ Understand discount impact on profitability
+- The **Super Store Sales Dashboard** enables business users and analysts to:
+- Monitor total sales, profits, and quantities sold
+- Identify high-performing and underperforming product segments
+- Analyze regional sales and profit trends
+- Explore customer order behavior
+- Understand discount impact on profitability
 
 ---
 
