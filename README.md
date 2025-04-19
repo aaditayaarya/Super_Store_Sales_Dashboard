@@ -54,8 +54,6 @@ This Power BI project visualizes sales performance using Superstore data to prov
 4. A small group of **repeat customers** accounts for a significant portion of total revenue.
 5. **Office Supplies** are sold in high quantities but yield less profit per unit.
 
-**Office Supplies** are sold in high quantities but yield less profit per unit.
-
 ---
 
 ## 🛠 **Tools Used**
