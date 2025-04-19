@@ -21,12 +21,12 @@
 
 ## 📈 **Dashboard Features**
 
-_ **KPI Tiles**: Total Sales, Total Profit, Total Quantity, Discount
-_ **Sales Trend**: Monthly/Yearly sales trend line chart
-_ **Profit by Category/Sub-Category**: Bar chart showing contribution to overall profit
-_ **Sales by Region/State**: Map or matrix highlighting regional performance
-_ **Top Customers**: Ranked list of customers by sales/profit
-_ **Profit vs Discount Scatterplot**: Analyzes discounting impact on profitability
+- **KPI Tiles**: Total Sales, Total Profit, Total Quantity, Discount
+- **Sales Trend**: Monthly/Yearly sales trend line chart
+- **Profit by Category/Sub-Category**: Bar chart showing contribution to overall profit
+- **Sales by Region/State**: Map or matrix highlighting regional performance
+- **Top Customers**: Ranked list of customers by sales/profit
+- **Profit vs Discount Scatterplot**: Analyzes discounting impact on profitability
 
 ---
 
